@@ -1,4 +1,6 @@
-![git hub profile](https://user-images.githubusercontent.com/49317644/136672680-f850481f-4de8-4e24-ab61-d1e5c8d93a2a.gif)
+![git hub profile]![profile](https://user-images.githubusercontent.com/49317644/156564342-82b93b0f-a06a-4032-b69a-b8b1a6dd81d3.PNG)
+![git hub profile]
+(https://user-images.githubusercontent.com/49317644/136672680-f850481f-4de8-4e24-ab61-d1e5c8d93a2a.gif)
 
 <h1 align="center">Hi 👋, I'm Rabia Abdul Qahar</h1>
 <h3 align="center">I'm Undergrad Software Engineer!!</h3>
