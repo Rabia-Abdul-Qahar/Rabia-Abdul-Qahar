@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rabia Abdul Qahar</h1>
-<h3 align="center">I'm Undergrad Software Engineer!!</h3>
+<h3 align="center">I'm Software Engineer!!</h3>
 
 
 - 📝 I write articles on [Medium](Medium)
