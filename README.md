@@ -1,4 +1,4 @@
-![git hub profile](https://user-images.githubusercontent.com/49317644/156564342-82b93b0f-a06a-4032-b69a-b8b1a6dd81d3.PNG)
+
 
 
 <h1 align="center">Hi 👋, I'm Rabia Abdul Qahar</h1>
